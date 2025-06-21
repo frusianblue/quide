@@ -16,7 +16,7 @@ public class GuideApplication {
 	// frucyan 테스트3
 	// frucyan 테스트4
 	// frucyan 테스트5
-
+	// frucyan 테스트6
 
 	// 주석 테스트
 	public static void main(String[] args) {

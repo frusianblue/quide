@@ -5,6 +5,7 @@ plugins {
 }
 
 // 테스트
+// 테스트2
 group = 'com.quickstart'
 version = '0.0.1-SNAPSHOT'
 
