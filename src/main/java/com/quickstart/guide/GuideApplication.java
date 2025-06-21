@@ -6,6 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GuideApplication {
 
+	// frusianblue 커밋 메세지
+
+
 	// 다섯번재 커밋
 	// 네번째 커밋 테스트
 	// 세번째 커밋 테스트
