@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GuideApplication {
 
+	// frusianblue  두번째 커밋 테스트
 	// frusianblue 채오식 테스트
 	
 	// 주석 테스트
