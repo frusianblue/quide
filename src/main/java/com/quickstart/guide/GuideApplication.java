@@ -8,7 +8,7 @@ public class GuideApplication {
 
 	// frusianblue 커밋 메세지
 	// frusianblue 두번째 메세지
-	
+	// frrusianble 세번째 테스트
 	
 	
 	// frucyan 커밋 테스트
