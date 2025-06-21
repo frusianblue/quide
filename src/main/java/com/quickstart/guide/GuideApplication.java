@@ -13,7 +13,8 @@ public class GuideApplication {
 	
 	// frucyan 커밋 테스트
 	// frucyan 테스트2
-	
+	// frucyan 테스트3
+
 	// 주석 테스트
 	public static void main(String[] args) {
 		SpringApplication.run(GuideApplication.class, args);
