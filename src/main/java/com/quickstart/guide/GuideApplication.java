@@ -8,20 +8,10 @@ public class GuideApplication {
 
 	// frusianblue 커밋 메세지
 	// frusianblue 두번째 메세지
-
-
-	// frucyan 커밋 메시지1
-	// frucyan 커밋 메시지2
-	// frucyan 커밋 메시지3
-
-	// 다섯번재 커밋
-	// 네번째 커밋 테스트
-	// 세번째 커밋 테스트
-
-	// frucyan 두번째 커밋 테스트
-	// frucyan 계정 커밋 테스트
-	// frusianblue  두번째 커밋 테스트
-	// frusianblue 채오식 테스트
+	
+	
+	
+	// frucyan 커밋 테스트
 	
 	// 주석 테스트
 	public static void main(String[] args) {
