@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GuideApplication {
 	// frusianblue
 	// 테스트1
+	// myTest, chae_ohsik, flasOh,
 
 	// frucyan
 	// 테스트중
