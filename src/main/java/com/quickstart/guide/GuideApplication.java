@@ -8,6 +8,7 @@ public class GuideApplication {
 
 	// frucyan
 	// 테스트중
+	// 테스트 2
 
 	// 주석 테스트
 	public static void main(String[] args) {
