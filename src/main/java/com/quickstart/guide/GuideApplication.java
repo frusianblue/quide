@@ -11,6 +11,7 @@ public class GuideApplication {
 
 
 	// frucyan 커밋 메시지1
+	// frucyan 커밋 메시지2
 
 	// 다섯번재 커밋
 	// 네번째 커밋 테스트
