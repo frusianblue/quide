@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GuideApplication {
 	
 	// 버그픽스 테스트중
-	
+	// 버그픽스 완료
+
 	// 주석 테스트
 	public static void main(String[] args) {
 		SpringApplication.run(GuideApplication.class, args);
