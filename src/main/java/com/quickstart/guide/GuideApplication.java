@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GuideApplication {
 	
 	// Merge 테스트
-	
+
+
+	// 나는 현재 버전을 변경하고 싶다.
+
 	// 주석 테스트
 	public static void main(String[] args) {
 		SpringApplication.run(GuideApplication.class, args);
