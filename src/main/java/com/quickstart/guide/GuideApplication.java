@@ -14,6 +14,9 @@ public class GuideApplication {
 	// 내용도 넣어 볼까
 	
 	
+	// feature-test03
+	// 이번에는 close를 해본다
+	
 	// 주석 테스트
 	public static void main(String[] args) {
 		SpringApplication.run(GuideApplication.class, args);
