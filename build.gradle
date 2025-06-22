@@ -4,8 +4,6 @@ plugins {
 	id 'io.spring.dependency-management' version '1.1.7'
 }
 
-// 테스트1
-// 테스트2
 group = 'com.quickstart'
 version = '0.0.1-SNAPSHOT'
 
