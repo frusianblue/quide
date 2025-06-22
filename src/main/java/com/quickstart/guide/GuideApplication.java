@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GuideApplication {
 	
-	// 버그픽스 테스트중
-	// 버그픽스 완료
+	// feture-test01 테스트
 
 	// 주석 테스트
 	public static void main(String[] args) {
