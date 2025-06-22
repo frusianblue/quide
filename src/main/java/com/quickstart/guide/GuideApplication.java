@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GuideApplication {
 	// 테스트1
+	// 테스트2
 
 	// 주석 테스트
 	public static void main(String[] args) {
