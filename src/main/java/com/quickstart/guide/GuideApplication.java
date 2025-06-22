@@ -6,11 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GuideApplication {
 	
-	// Merge 테스트
-	
-	// 나도 변경을 하고 싶어
-
-	// 나는 현재 버전을 변경하고 싶다.
+	// Merge는 이렇게 feture 를 develop에 merge할때 사용 하나
 
 	// 주석 테스트
 	public static void main(String[] args) {
