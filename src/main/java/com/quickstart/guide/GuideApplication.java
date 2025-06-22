@@ -8,6 +8,8 @@ public class GuideApplication {
 
 	// reset 테스트1
 	// reset 테스트2
+	// reset 테스트3
+
 
 
 	// feture-test01 테스트
