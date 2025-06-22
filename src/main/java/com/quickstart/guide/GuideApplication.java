@@ -5,7 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class GuideApplication {
-	
+
+	// reset 테스트1
+
+
 	// feture-test01 테스트
 
 	
