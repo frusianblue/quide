@@ -6,9 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GuideApplication {
 	
-	// Merge는 이렇게 feture 를 develop에 merge할때 사용 하나
-	
-	// 병합 잘되네
+	// 버그픽스 테스트중
 	
 	// 주석 테스트
 	public static void main(String[] args) {
